@@ -18,12 +18,18 @@ To get things started, check out the first example on how to create a classical 
 
 ### Hello World
 
-This examples shows how to create an HTTP server using the net/http package from the standard library. It contains all functionalities about the HTTP protocol. [Go to Tutorial](https://gowebexamples.com/hello-world/)
+This examples shows how to create an HTTP server using the net/http package from the standard library. It contains all functionalities about the HTTP protocol. 
+
+[Go to Tutorial](https://gowebexamples.com/hello-world/)
 
 ### HTTP Server
 
-This example shows how to use the `net/http` package to create a HTTP server with handlers and static files. [Go to Tutorial](https://gowebexamples.com/http-server/)
+This example shows how to use the `net/http` package to create a HTTP server with handlers and static files. 
+
+[Go to Tutorial](https://gowebexamples.com/http-server/)
 
 ### Routing (using gorilla/mux)
 
-This example shows how to use the `gorilla/mux` package to create routes with named parameters, GET/POST handlers and domain restrictions. [Go to Tutorial](https://gowebexamples.com/routes-using-gorilla-mux/)
+This example shows how to use the `gorilla/mux` package to create routes with named parameters, GET/POST handlers and domain restrictions. 
+
+[Go to Tutorial](https://gowebexamples.com/routes-using-gorilla-mux/)
