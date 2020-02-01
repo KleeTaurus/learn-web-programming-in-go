@@ -2,6 +2,8 @@
 
 [Learn Web Programming in Go by Examples](https://gowebexamples.com/) is an awesome learning resource for Golang beginner. All examples source code can be find in this repository.
 
+![Go with http](./img/go-with-http.png)
+
 ## About the Go programming language
 
 Go is an open source programming language designed for building simple, fast, and reliable software. Take a look here which great companies use Go to power their services.
