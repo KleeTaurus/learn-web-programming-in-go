@@ -33,3 +33,9 @@ This example shows how to use the `net/http` package to create a HTTP server wit
 This example shows how to use the `gorilla/mux` package to create routes with named parameters, GET/POST handlers and domain restrictions. 
 
 [Go to Tutorial](https://gowebexamples.com/routes-using-gorilla-mux/)
+
+### JSON
+
+This example will show how to encode and decode JSON data using the encoding/json package in the Go programming language.
+
+[Go to Tutorial](https://gowebexamples.com/json/)
