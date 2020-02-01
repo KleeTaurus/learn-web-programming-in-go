@@ -24,7 +24,7 @@ func main() {
 	fs := http.FileServer(http.Dir("static/"))
 	http.Handle("/static/", http.StripPrefix("/static/", fs))
 
-	// You can open your browser to view the example.js file.
-	// http://localhost/static/example.js
+	// You can navigate your browser to http://localhost/static/example.js
+	// and see your server handling your request.
 	http.ListenAndServe(":80", nil)
 }
