@@ -39,3 +39,9 @@ This example shows how to use the `gorilla/mux` package to create routes with na
 This example will show how to encode and decode JSON data using the encoding/json package in the Go programming language.
 
 [Go to Tutorial](https://gowebexamples.com/json/)
+
+### Middleware (Basic)
+
+This example will show how to create basic logging middleware in the Go programming language.
+
+[Go to Tutorial](https://gowebexamples.com/basic-middleware/)
