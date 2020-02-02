@@ -45,3 +45,9 @@ This example will show how to encode and decode JSON data using the encoding/jso
 This example will show how to create basic logging middleware in the Go programming language.
 
 [Go to Tutorial](https://gowebexamples.com/basic-middleware/)
+
+### Middleware (Advanced)
+
+This example will show how to create a more advanced version of middleware in the Go programming language.
+
+[Go to Tutorial](https://gowebexamples.com/advanced-middleware/)
