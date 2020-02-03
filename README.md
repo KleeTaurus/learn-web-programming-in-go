@@ -51,3 +51,9 @@ This example will show how to create basic logging middleware in the Go programm
 This example will show how to create a more advanced version of middleware in the Go programming language.
 
 [Go to Tutorial](https://gowebexamples.com/advanced-middleware/)
+
+### Forms
+
+This example will show how to simulate a contact form and parse the message into a struct using the Go programming language.
+
+[Go to Tutorial](https://gowebexamples.com/forms/)
